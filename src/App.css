@@ -1,0 +1,29 @@
+.calc{
+  height: 45
+  
+  
+  
+  0px;
+  width: 300px;
+  margin-left: 90px;
+  border: black 2px solid;
+}
+.screen{
+  margin:20px auto;
+  text-align: center;
+}
+.disp{
+  height: 40px;
+  width: 250px;
+  border: 2px black solid;
+}
+.dey{
+  text-align: center;
+  padding-left: 20px;
+  
+}
+.btn{
+  padding: 19px;
+  margin: 5px;
+  border: 2px black solid;
+}
